@@ -1,0 +1,1 @@
+Using Netflix TV Show and Movie data taken from [kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) to perform exploratory data analytics and build a show recommendation system based on available data.
